@@ -56,7 +56,8 @@ where appropriate (per the conditions of their LICENSE?
 
 ### LICENSE
 
-Which LICENSE are we using? Is the LICENSE(.md) file present?
+Which LICENSE are we using?  
+Is the LICENSE(.md) file present?  
 Does it have the correct dates, legal entities etc.?
 
 ## Maintainers
