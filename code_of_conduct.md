@@ -1,5 +1,12 @@
 
+<img src="https://atsign.dev/assets/img/@developersmall.png?sanitize=true">
+
+### Now for a little internet optimism
+
 # The @ Foundation Code of Conduct
+
+Based on
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)](code_of_conduct.md)
 
 ## Our Pledge
 
