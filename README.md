@@ -1,3 +1,7 @@
+<img src="https://atsign.dev/assets/img/@developersmall.png?sanitize=true">
+
+### Now for a little internet optimism
+
 # Sample README
 
 Open with intent - we welcome contributions - we want pull requests and to hear about issues.
