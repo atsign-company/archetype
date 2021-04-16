@@ -24,6 +24,10 @@ describe.
 
 ### Prerequisites
 
+   ``` sh
+   # show how to install the tools needed to work with the code here
+   ```
+
 
 ### GitHub Repository Clone
 
