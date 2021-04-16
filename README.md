@@ -19,7 +19,7 @@ In which case the code user just needs a pointer there - e.g. [at_client on pub.
 ### Contributor
 
 This is the person who we want working with us here.
-CONTRIBUTING.md is going to have the detailed guidance on how to setup their tools,
+[CONTRIBUTING.md](CONTRIBUTING.md) is going to have the detailed guidance on how to setup their tools,
 tests and how to make a pull request.
 
 ## Why, What, How?
